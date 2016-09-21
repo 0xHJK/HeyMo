@@ -3,7 +3,7 @@
 
 可能是Windows下最适合写代码的字体:)
 
-# 简介
+## 简介
 
 [HeyMoon](https://github.com/0xHJK/HeyMo/blob/master/HeyMona-v0.1.ttf)是由Monaco和文泉驿等宽微米黑合成。
 
@@ -17,6 +17,6 @@ Monaco系列字体适合写代码。
 
 建议配合[MacType](https://github.com/snowie2000/MacType)使用
 
-# 使用方法
+## 使用方法
 
 双击安装，在编辑器中设置字体。
